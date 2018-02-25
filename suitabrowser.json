@@ -4,7 +4,7 @@
         "*.html"
     ],
     "browsers": {
-        "chrome": "49",
+        "chrome": "36",
         "firefox": "52"
     }
 }
