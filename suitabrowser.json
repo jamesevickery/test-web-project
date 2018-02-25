@@ -1,10 +1,10 @@
 {
     "strict": true,
     "files": [
-        "html_imports.html"
+        "*.html"
     ],
     "browsers": {
-        "chrome": 49,
-        "firefox": 52
+        "chrome": "49",
+        "firefox": "52"
     }
 }
